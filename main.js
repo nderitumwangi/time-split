@@ -7998,7 +7998,7 @@ $(function () {
     navLinks: true,
     events: [
       {
-        title: "Long Event",
+        title: "Atlassian Event",
         start: YM + "-01",
         end: YM + "-01",
       },
@@ -8021,21 +8021,21 @@ $(function () {
         start: YM + "-16T16:00:00",
       },
       {
-        title: "Conference",
+        title: "Salma Conference",
         start: YESTERDAY,
         end: TOMORROW,
       },
       {
-        title: "Meeting",
+        title: "Alex Meeting",
         start: TODAY + "T10:30:00",
         end: TODAY + "T12:30:00",
       },
       {
-        title: "Lunch",
+        title: "Go Lunch with Silas",
         start: TODAY + "T12:00:00",
       },
       {
-        title: "Meeting",
+        title: "Meeting with time split member ",
         start: TODAY + "T14:30:00",
       },
       {
